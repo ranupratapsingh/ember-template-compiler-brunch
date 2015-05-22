@@ -9,7 +9,7 @@
   "author": "Ståle Undheim",
   "license": "Apache v2",
   "dependencies": {
-    "ember-template-compiler": ">= 1.0.0",
+    "ember-template-compiler": "1.8.0",
     "handlebars": ">= 1.0.0 < 2.0.0",
     "umd-wrapper": "^0.1.0"
   },
